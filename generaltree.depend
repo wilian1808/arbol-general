@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1599479224 source:d:\edav\generaltree\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<algorithm>
+	<math.h>
+	<iostream>
+	<vector>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
+1599478884 d:\edav\generaltree\resource.h
+
+1599478910 source:d:\edav\generaltree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1599478912 source:c:\users\will\downloads\archivo\generaltree\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1599478886 c:\users\will\downloads\archivo\generaltree\resource.h
+
